@@ -1,3 +1,22 @@
-// Place your key bindings in this file to override the defaults
 [
+    {
+        "key": "cmd+d",
+        "command": "editor.action.deleteLines",
+        "when": ""
+    },
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when": ""
+    },
+    {
+        "key": "cmd+alt+down",
+        "command": "editor.action.insertCursorBelow",
+        "when": ""
+    },
+    {
+        "key": "cmd+alt+up",
+        "command": "editor.action.insertCursorAbove",
+        "when": ""
+    }
 ]
